@@ -13,6 +13,7 @@
 ## Descrição do Projeto
 Boletim inteligente que apresenta estatísticas dos desempenhos individuais e da turma.
 ### Objetivo principal
+Trabalho final da matéria de Práticas em Ciências de Dados, disciplina ministrada pelo Professor Leandro Lemos na Ilum Escola de Ciência (CNPEM). O projeto tem como objetivo inicial facilitar o acesso e disponibilização das notas das disciplinas do curso de Bacharelado em Ciência e Tecnologia, realizando a mediação entre professores e alunos. Procuramos criar um espaço onde seja possível que os professores disponibilizem as notas de provas e/ou atividades para os alunos de forma manual, e o programa funcione de forma a retornar para o prórpio professor a média de toda a turma, a maior e menor nota na sua disciplina, a nota mediana, o desvio padrão da média e um gráfico com a distribuição das notas para cada prova. Para os alunos, planejamos que ao inserir seu nome ou matrícula, recebam todas as notas de cada matéria, as médias de cada disciplina com conceito, posição no ranking com as notas de todos os alunos (por matéria e geral), menor e maior nota da turma, nota mediana da turma e um aviso caso precise fazer recuperação de alguma matéria.
 
 ## ÍNDICE
 * [Colaboradores](#colaboradores)
