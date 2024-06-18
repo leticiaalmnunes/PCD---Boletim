@@ -6,11 +6,15 @@
 </p>
 
 ## Colaboradores
-_inserir fotos e links ps perfis_
+[<img src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115><br><sub>Maria Clara Macêdo Lelis</sub>](https://github.com/ClaraLelis)
+
 * Joana de Medeiros Oliveira Hulsen Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
+https://github.com/jojomolinetes
 * Letícia Almeida Nunes, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
-* Maria Clara Macedo Lelis, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
+https://github.com/leticiaalmnunes
+* Maria Clara Macêdo Lelis, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Thomas Wolff Hannemann, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
+https://github.com/ThomasHannemann
 
 ## Descrição do Projeto
 Trabalho final do primeiro período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Práticas em Ciências de Dados', ministrada pelo Professor Leandro Nascimento Lemos.
@@ -67,7 +71,7 @@ Thomas Hannemann: Responsável pela estruturação dos dados de saída, elabora�
 _Escrever conclusão aqui_
 
 ## Agradecimentos
-Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados ... Duanny
+Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados ... Duanny, Romuleira
 
 ## Referências
 _Escrever as referências no padrão ABNT aqui_
