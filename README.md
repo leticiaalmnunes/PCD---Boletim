@@ -13,7 +13,6 @@
 
 * Joana de Medeiros Oliveira Hulsen Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Letícia Almeida Nunes, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
-https://github.com/leticiaalmnunes
 * Maria Clara Macêdo Lelis, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Thomas Wolff Hannemann, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 
