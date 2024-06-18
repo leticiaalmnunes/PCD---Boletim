@@ -6,15 +6,15 @@
 </p>
 
 ## Colaboradores
+[<img src="https://avatars.githubusercontent.com/u/172425100?v=4" width=115>](https://github.com/jojomolinetes)
 [<img src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115>](https://github.com/ClaraLelis)
+[<img src="https://avatars.githubusercontent.com/u/172425104?v=4" width=115>](https://github.com/ThomasHannemann)
 
 * Joana de Medeiros Oliveira Hulsen Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
-https://github.com/jojomolinetes
 * Letícia Almeida Nunes, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 https://github.com/leticiaalmnunes
 * Maria Clara Macêdo Lelis, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Thomas Wolff Hannemann, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
-https://github.com/ThomasHannemann
 
 ## Descrição do Projeto
 Trabalho final do primeiro período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Práticas em Ciências de Dados', ministrada pelo Professor Leandro Nascimento Lemos.
