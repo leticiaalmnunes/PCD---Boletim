@@ -54,6 +54,13 @@ _adicionar as edições_
 * Numpy
 * Matplotlib
 * BoxPlot
+* Matplotlib.pyplot
+* Os
+* Operator
+* Statistics
+* Plotly.graph_objects
+* Collections
+* Time
 
 ## Contribuições
 _isso aq é provisório família, ainda tem mt p ser feito pela frente e conforme a necessidade eu atualizo aq :)_ <br>
@@ -68,10 +75,12 @@ Thomas Hannemann: Responsável pela estruturação dos dados de saída, elabora�
 <br><br>
 
 ## Conclusão
-_Escrever conclusão aqui_
+_Os avanços da tecnologia da informação, ciência e manipulação de dados se apresentam cada vez mais integrados na sociedade, desempenhando papéis fundamentais no dia a dia das pessoas e facilitando processos que anteriormente eram manuais e trabalhosos. Tendo em vista esses aspectos, a intenção desse projeto era auxiliar em situações rotineiras, aprimorando o método de inserção e distribuição de notas dentro de cursos educacionais, demonstrando como a linguagem _python_ e diversas bibliotecas oferecem aplicações muito úteis para a otimização das tarefas acadêmicas e aproximação entre professor e aluno._
+_Os resultados apresentados no trabalho contribuem com os diversos objetivos alcançados pelos algoritmos, tornando o processo de recebimento e controle de nota muito mais fácil e visual, tanto para os estudantes quanto para os docentes, desempenhando assim, os objetivos almejados inicialmente._
+_Apesar de ser um projeto puramente didático, as aplicações foram notáveis e satisfatórias, cumprindo com o propósito do grupo._
 
 ## Agradecimentos
-Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados ... Duanny, Romuleira
+Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados. Ao Duanny Onorio, pela disponibilização do seu tempo em horário de almoço, fim de expediente, e durante a aula para sanar nossas dúvidas, dar dicas e corrigir nossos códigos. Ao nosso colega e amigo Rômulo Emanuel Cruz por apresentar a solução na decocificação de um erro no código.
 
 ## Referências
 _Escrever as referências no padrão ABNT aqui_
