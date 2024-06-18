@@ -6,7 +6,7 @@
 </p>
 
 ## Colaboradores
-<img src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115>
+[<img src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115>](https://github.com/ClaraLelis)
 
 * Joana de Medeiros Oliveira Hulsen Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 https://github.com/jojomolinetes
