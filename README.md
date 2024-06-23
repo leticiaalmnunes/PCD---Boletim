@@ -11,7 +11,7 @@
 [<img src="https://avatars.githubusercontent.com/u/172424981?v=4" width=115>](https://github.com/ClaraLelis)
 [<img src="https://avatars.githubusercontent.com/u/172425104?v=4" width=115>](https://github.com/ThomasHannemann)
 
-* Joana de Medeiros Oliveira Hulsen Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
+* Joana de Medeiros Oliveira Hulse Molinete, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Letícia Almeida Nunes, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Maria Clara Macêdo Lelis, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 * Thomas Wolff Hannemann, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
