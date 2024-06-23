@@ -17,8 +17,8 @@
 * Thomas Wolff Hannemann, Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais
 
 ## Descrição do Projeto
-Trabalho final do primeiro período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Práticas em Ciências de Dados', ministrada pelo Professor Leandro Nascimento Lemos.
-_Indo além do boletim tradicional, esse código fornece estatísticas e gráficos sobre os desempenhos individuais e das turma. Por motivos didáticos, o código pré-estabelece um sistema de avaliação fixo e precisa de um dicionário prévio para ser rodado._
+Trabalho final do primeiro período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Práticas em Ciências de Dados', ministrada pelo Professor Leandro Nascimento Lemos.<br>
+Indo além do boletim tradicional, esse código fornece estatísticas e gráficos sobre os desempenhos individuais e das turma. Por motivos didáticos, o código pré-estabelece um sistema de avaliação fixo e precisa de um dicionário prévio para ser rodado.
 
 ### Objetivo principal
 O projeto tem como objetivo principal facilitar o acesso, disponibilização e análise das notas das disciplinas do curso, realizando a mediação entre professores e alunos. 
@@ -47,37 +47,39 @@ _Colocar aqui alguns gráficos_
 ### Aluno
 _Colocar aqui um boletim reduzido_
 
-## Tecnologias utilizadas
+## Informações técnicas
 _adicionar as edições_
-* Jupyter Notebook
-* Pandas
-* Numpy
-* Matplotlib
-* BoxPlot
-* Matplotlib.pyplot
-* Os
-* Operator
-* Statistics
-* Plotly.graph_objects
-* Collections
-* Time
+* Linguagem de programação
+  - Python 3.9
+* Software
+  - Jupyter Notebook
+* Bibliotecas
+  - BoxPlot
+  - Collections
+  - Matplotlib
+  - Matplotlib.pyplot
+  - Numpy
+  - Operator
+  - Os
+  - Pandas
+  - Plotly.graph_objects
+  - Statistics
+  - Time
 
 ## Contribuições
-_isso aq é provisório família, ainda tem mt p ser feito pela frente e conforme a necessidade eu atualizo aq :)_ <br>
-<br>
-Joana Molinete: Responsável pela estruturação dos dados de entrada, elaboração dos trechos do código referentes ao retorno do professor, desen escrita da descrição e objetivo do README.
+HANNEMANN, Thomas: Responsável pela leitura e estruturação dos dados de saída (gráficos), elaboração dos trechos do código referentes ao retorno do aluno e tratamento dos dados.
 <br><br>
-Letícia Nunes: Líder da equipe, idealizadora do projeto, responsável pela estruturação dos dicionários, elaboração dos trechos do código referentes ao retorno do professor e documentação.
+LELIS, Maria: Responsável pela estruturação dos dados de saída (interface e arquivos), elaboração dos trechos do código referentes ao retorno do aluno, pesquisas para o aprimoramento das funções e realização dos testes. 
 <br><br>
-Maria Lelis: Responsável pela estruturação dos dados de saída, elaboração dos trechos do código referentes ao retorno do aluno, pesquisas para o aprimoramento das funções e realização dos testes. 
+MOLINETE, Joana: Responsável pela estruturação dos dados de entrada, elaboração dos trechos do código referentes ao retorno do professor, documentação (descrição e objetivo) e slides.
 <br><br>
-Thomas Hannemann: Responsável pela estruturação dos dados de saída, elaboração dos trechos do código referentes ao retorno do aluno, tratamento dos dados e desenvolvimento dos gráficos.
+NUNES, Letícia: Líder da equipe, idealizadora do projeto, responsável pela estruturação dos dicionários, padronização das funções, elaboração dos trechos do código referentes ao retorno do professor e documentação.
 <br><br>
 
 ## Conclusão
-_Os avanços da tecnologia da informação, ciência e manipulação de dados se apresentam cada vez mais integrados na sociedade, desempenhando papéis fundamentais no dia a dia das pessoas e facilitando processos que anteriormente eram manuais e trabalhosos. Tendo em vista esses aspectos, a intenção desse projeto era auxiliar em situações rotineiras, aprimorando o método de inserção e distribuição de notas dentro de cursos educacionais, demonstrando como a linguagem _python_ e diversas bibliotecas oferecem aplicações muito úteis para a otimização das tarefas acadêmicas e aproximação entre professor e aluno._
-_Os resultados apresentados no trabalho contribuem com os diversos objetivos alcançados pelos algoritmos, tornando o processo de recebimento e controle de nota muito mais fácil e visual, tanto para os estudantes quanto para os docentes, desempenhando assim, os objetivos almejados inicialmente._
-_Apesar de ser um projeto puramente didático, as aplicações foram notáveis e satisfatórias, cumprindo com o propósito do grupo._
+Os avanços da tecnologia da informação, ciência e manipulação de dados se apresentam cada vez mais integrados na sociedade, desempenhando papéis fundamentais no dia a dia das pessoas e facilitando processos que anteriormente eram manuais e trabalhosos. Tendo em vista esses aspectos, a intenção desse projeto era auxiliar em situações rotineiras, aprimorando o método de inserção e distribuição de notas dentro de cursos educacionais, demonstrando como a linguagem _python_ e diversas bibliotecas oferecem aplicações muito úteis para a otimização das tarefas acadêmicas e aproximação entre professor e aluno. <br>
+Os resultados apresentados no trabalho contribuem com os diversos objetivos alcançados pelos algoritmos, tornando o processo de recebimento e controle de nota muito mais fácil e visual, tanto para os estudantes quanto para os docentes, desempenhando assim, os objetivos almejados inicialmente.<br>
+Apesar de ser um projeto puramente didático, as aplicações foram notáveis e satisfatórias, cumprindo com o propósito do grupo.<br>
 
 ## Agradecimentos
 Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados. Ao Duanny Onorio, pela disponibilização do seu tempo em horário de almoço, fim de expediente, e durante a aula para sanar nossas dúvidas, dar dicas e corrigir nossos códigos. Ao nosso colega e amigo Rômulo Emanuel Cruz por apresentar a solução na decocificação de um erro no código.
