@@ -71,7 +71,7 @@ HANNEMANN, Thomas: Responsável pela leitura e estruturação dos dados de saíd
 <br><br>
 LELIS, Maria: Responsável pela estruturação dos dados de saída (interface e arquivos), elaboração dos trechos do código referentes ao retorno do aluno, pesquisas para o aprimoramento das funções e realização dos testes. 
 <br><br>
-MOLINETE, Joana: Responsável pela estruturação dos dados de entrada, elaboração dos trechos do código referentes ao retorno do professor, documentação (descrição e objetivo) e slides.
+MOLINETE, Joana: Responsável pela estruturação dos dados de entrada, elaboração dos trechos do código referentes ao retorno do professor (gráficos), documentação (introdução, objetivos e conclusão) e slides.
 <br><br>
 NUNES, Letícia: Líder da equipe, idealizadora do projeto, responsável pela estruturação dos dicionários, padronização das funções, elaboração dos trechos do código referentes ao retorno do professor e documentação.
 <br><br>
