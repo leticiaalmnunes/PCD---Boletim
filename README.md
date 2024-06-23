@@ -35,7 +35,7 @@ Para os alunos, planejamos que ao inserir o nome completo, o programa retorne to
 * [Demonstração da Aplicação](#demonstração-da-aplicação)
   - [Professor](#professor)
   - [Aluno](#aluno)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Informações técnicas](#informações-técnicas)
 * [Contribuições](#contribuições)
 * [Conclusão](#conclusão)
 * [Agradecimentos](#agradecimentos)
