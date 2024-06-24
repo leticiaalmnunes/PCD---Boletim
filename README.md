@@ -48,23 +48,22 @@ _Colocar aqui alguns gráficos_
 _Colocar aqui um boletim reduzido_
 
 ## Informações técnicas
-_adicionar as edições_
 * Linguagem de programação
   - Python 3.9
 * Software
   - Jupyter Notebook
 * Bibliotecas
-  - BoxPlot
-  - Collections
-  - Matplotlib
-  - Matplotlib.pyplot
-  - Numpy
-  - Operator
-  - Os
-  - Pandas
-  - Plotly.graph_objects
-  - Statistics
-  - Time
+  - BoxPlot 0.1.1
+  - Collections 0.1.6
+  - Matplotlib 3.9.0
+  - Matplotlib.pyplot 3.9.0
+  - Numpy 1.26.4
+  - Operator 1.0.1
+  - Os 2.1.4
+  - Pandas 2.2.2
+  - Plotly.graph_objects 5.22.0
+  - Statistics 1.0.3.5
+  - Time 0.3.0
 
 ## Contribuições
 HANNEMANN, Thomas: Responsável pela leitura e estruturação dos dados de saída (gráficos), elaboração dos trechos do código referentes ao retorno do aluno e tratamento dos dados.
