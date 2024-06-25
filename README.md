@@ -87,7 +87,7 @@ Os resultados apresentados no trabalho contribuem com os diversos objetivos alca
 Apesar de ser um projeto puramente didático, as aplicações foram notáveis e satisfatórias, cumprindo com o propósito do grupo.<br>
 
 ## Agradecimentos
-Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados. Ao Duanny Onorio, pela disponibilização do seu tempo em horário de almoço, fim de expediente, e durante a aula para sanar nossas dúvidas, dar dicas e corrigir nossos códigos. Ao nosso colega e amigo Rômulo Emanuel Cruz por apresentar a solução na decocificação de um erro no código.
+Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados. Ao Duanny Onorio, pela disponibilização do seu tempo em horário de almoço, fim de expediente, e durante a aula para sanar nossas dúvidas, dar dicas e corrigir nossos códigos. Aos nossos colegas e amigos Rômulo Emanuel Cruz e Raquel de Godoy Vianna.
 
 ## Referências
 Alura. Como escrever um bom README. 2023. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 25 jun. 2024.
