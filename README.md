@@ -92,8 +92,13 @@ Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo
 ## Referências
 Alura. Como escrever um bom README. 2023. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 25 jun. 2024.
 <br><br>
+ChatGPT. ChatGPT. 2024. Disponível em: <https://chatgpt.com/>. Acesso em: 25 jun. 2024.
+<br><br>
 Lohhans. Exemplo de um bom README. 2023. Disponível em: https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89. Acesso em: 25 jun. 2024.
 <br><br>
 Rocketseat. Como fazer um bom README. 2023. Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 25 jun. 2024.
 <br><br>
+Stack Overflow. Como escrever em um arquivo txt em Python?. 2020. Disponível em: https://pt.stackoverflow.com/questions/464675/como-escrever-em-um-arquivo-txt-em-python. Acesso em: 25 jun. 2024.
+<br><br>
 YouTube. Como fazer um bom README. 2023. Disponível em: https://youtu.be/ZWj8o692qGY?si=PBVFkb1a_aHU3K_p. Acesso em: 25 jun. 2024. ​
+<br><br>
