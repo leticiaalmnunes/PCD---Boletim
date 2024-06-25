@@ -18,14 +18,14 @@
 
 ## Descrição do Projeto
 Trabalho final do primeiro período do curso de Bacharelado em Ciência e Tecnologia da turma 2024 da _Ilum - Escola de Ciência (CNPEM)_ referente à disciplina 'Práticas em Ciências de Dados', ministrada pelo Professor Leandro Nascimento Lemos.<br>
-Indo além do boletim tradicional, esse código fornece estatísticas e gráficos sobre os desempenhos individuais e das turma. Por motivos didáticos, o código pré-estabelece um sistema de avaliação fixo e precisa de um dicionário prévio para ser rodado.
+Indo além do boletim tradicional, esse código funciona como uma biblioteca que fornece estatísticas e gráficos sobre os desempenhos individuais e das turma. Por motivos didáticos, o código pré-estabelece um sistema de avaliação fixo e precisa de um dicionário prévio para ser rodado.
 
 ### Objetivo principal
 O projeto tem como objetivo principal facilitar o acesso, disponibilização e análise das notas das disciplinas do curso, realizando a mediação entre professores e alunos. 
 <br>
-Procuramos criar um espaço onde seja possível que os professores insiram as notas das provas e atividades para os alunos de forma manual e o programa funcione de forma a retornar para o prórpio professor a maior e menor nota na sua disciplina, a média de toda a turma, a mediana, o desvio padrão da média e um gráfico com a distribuição das notas para cada prova.
+Procuramos criar um espaço onde seja possível que os professores insiram as notas das provas e atividades para os alunos de forma manual e o programa funcione de forma a retornar para o próprio professor a maior e menor nota na sua disciplina, a média de toda a turma, a mediana, o desvio padrão da média e um gráfico com a distribuição das notas e conceito para cada prova.
 <br>
-Para os alunos, planejamos que ao inserir o nome completo, o programa retorne todas as notas de cada matéria, as médias de cada disciplina com conceito, posição no ranking da turma (por matéria e geral), menor e maior nota da turma, nota mediana da turma e um aviso caso precise realizar a recuperação de alguma matéria.
+Para os alunos o programa retorna todas as notas de cada matéria, as médias de cada disciplina com conceito, posição no ranking da turma (por matéria e geral), menor e maior nota da turma, nota mediana da turma e um aviso caso precise realizar a recuperação de alguma matéria.
 
 ## ÍNDICE
 * [Colaboradores](#colaboradores)
