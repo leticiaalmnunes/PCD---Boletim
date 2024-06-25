@@ -40,6 +40,7 @@ Para os alunos o programa retorna todas as notas de cada matéria, as médias de
 * [Conclusão](#conclusão)
 * [Agradecimentos](#agradecimentos)
 * [Referências](#referências)
+* [Nota adicional](#nota-adicional)
 
 ## Demonstração da Aplicação
 ### Professor
@@ -102,3 +103,15 @@ Stack Overflow. Como escrever em um arquivo txt em Python?. 2020. Disponível em
 <br><br>
 YouTube. Como fazer um bom README. 2023. Disponível em: https://youtu.be/ZWj8o692qGY?si=PBVFkb1a_aHU3K_p. Acesso em: 25 jun. 2024. ​
 <br><br>
+
+## Nota adicional
+Como um grupo no qual todos aprenderam a programar com a disciplina, embora não tenhamos alcançado todos os objetivos inicialmente estabelecidos, ficamos satisfeitos com os resultados alcançados e somos profundamente gratos a todos que nos auxiliaram no processo.
+<br><br>
+Por hora, essa biblioteca é o nosso projeto, no entanto, os integrantes estão obstinadas a otimizá-lo e dar continuidade ao projeto para além da faculdade. Portanto, esse código permanecerá disponível, porém, dependendo de quando você estiver lendo essa conclusão, nosso github já apresenta um segundo código otimizado e com interface.
+<br><br>
+
+Atenciosamente,
+<br><br>
+Hannemann, Lelis, Molinete e Nunes. <br><br>
+
+_texto atualizado em 25/06/2024 às 16:40_
