@@ -43,9 +43,15 @@ Para os alunos o programa retorna todas as notas de cada matéria, as médias de
 
 ## Demonstração da Aplicação
 ### Professor
-_Colocar aqui alguns gráficos_ 
+![d1cf599c-aa3f-4108-b084-b590da9fdbac](https://github.com/leticiaalmnunes/PCD---Boletim/assets/172425156/f53b048b-e5aa-4527-adcc-1798b752762e)
+<br>
+![ba1b564a-03d2-4d8c-aab6-0384d799b164](https://github.com/leticiaalmnunes/PCD---Boletim/assets/172425156/f94987c3-a6e2-471e-bf3e-8802894fea1f)
+<br><br>
+
 ### Aluno
-_Colocar aqui um boletim reduzido_
+![image](https://github.com/leticiaalmnunes/PCD---Boletim/assets/172425156/3f3a3ef7-6644-4505-b551-aa21e71b8391)
+![image](https://github.com/leticiaalmnunes/PCD---Boletim/assets/172425156/6a96a98c-24c5-4fcc-9566-ad2725cd5c1e)
+<br><br>
 
 ## Informações técnicas
 * Linguagem de programação
@@ -84,4 +90,10 @@ Apesar de ser um projeto puramente didático, as aplicações foram notáveis e 
 Agradecemos ao professor Leandro Nascimento Lemos pela orientação durante todo o decorrer do semestre na disciplina de Práticas em Ciências de Dados. Ao Duanny Onorio, pela disponibilização do seu tempo em horário de almoço, fim de expediente, e durante a aula para sanar nossas dúvidas, dar dicas e corrigir nossos códigos. Ao nosso colega e amigo Rômulo Emanuel Cruz por apresentar a solução na decocificação de um erro no código.
 
 ## Referências
-_Escrever as referências no padrão ABNT aqui_
+Alura. Como escrever um bom README. 2023. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme. Acesso em: 25 jun. 2024.
+<br><br>
+Lohhans. Exemplo de um bom README. 2023. Disponível em: https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89. Acesso em: 25 jun. 2024.
+<br><br>
+Rocketseat. Como fazer um bom README. 2023. Disponível em: https://blog.rocketseat.com.br/como-fazer-um-bom-readme/. Acesso em: 25 jun. 2024.
+<br><br>
+YouTube. Como fazer um bom README. 2023. Disponível em: https://youtu.be/ZWj8o692qGY?si=PBVFkb1a_aHU3K_p. Acesso em: 25 jun. 2024. ​
